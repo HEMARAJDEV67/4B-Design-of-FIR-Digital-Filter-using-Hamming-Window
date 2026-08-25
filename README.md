@@ -12,7 +12,7 @@
 
 # PROGRAM 
           clc ; 
-          close ; 
+          close ;
           M=input('Enter the Odd Filter Length ='); 
           Wc=input('Enter the Digital Cut off frequency ='); 
           alpha= (M -1)/2  
