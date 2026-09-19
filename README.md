@@ -38,6 +38,10 @@ xlabel('Normalized Digital Frequency W');
 ylabel('Magnitude in dB');
 title('Frequency Response of FIR LPF using Hamming Window');
 ```
+# CALCULATION :
+<img width="980" height="1598" alt="image" src="https://github.com/user-attachments/assets/dc117435-5221-44f2-afba-a63b00ceeae8" />
+<img width="1190" height="1600" alt="image" src="https://github.com/user-attachments/assets/2c6418e8-6cc6-4fee-80a0-e951822998fd" />
+
 # OUTPUT: 
 <img width="730" height="585" alt="image" src="https://github.com/user-attachments/assets/ae058699-74de-4b0b-bea9-a2e3ce87ec8e" />
 
